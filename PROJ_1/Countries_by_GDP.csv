@@ -1,0 +1,214 @@
+,Country,GDP_USD_billions
+0,United States,26854.6
+1,China,19373.59
+2,Japan,4409.74
+3,Germany,4308.85
+4,India,3736.88
+5,United Kingdom,3158.94
+6,France,2923.49
+7,Italy,2169.74
+8,Canada,2089.67
+9,Brazil,2081.24
+10,Russia,2062.65
+11,South Korea,1721.91
+12,Australia,1707.55
+13,Mexico,1663.16
+14,Spain,1492.43
+15,Indonesia,1391.78
+16,Netherlands,1080.88
+17,Saudi Arabia,1061.9
+18,Turkey,1029.3
+19,Switzerland,869.6
+20,Taiwan,790.73
+21,Poland,748.89
+22,Argentina,641.1
+23,Belgium,624.25
+24,Sweden,599.05
+25,Ireland,594.1
+26,Thailand,574.23
+27,Norway,554.1
+28,Israel,539.22
+29,Singapore,515.55
+30,Austria,515.2
+31,Nigeria,506.6
+32,United Arab Emirates,498.98
+33,Vietnam,449.09
+34,Malaysia,447.03
+35,Philippines,440.9
+36,Bangladesh,420.52
+37,Denmark,405.63
+38,South Africa,399.02
+39,Hong Kong,382.85
+40,Egypt,378.11
+41,Pakistan,
+42,Iran,367.97
+43,Chile,358.56
+44,Romania,348.9
+45,Colombia,334.69
+46,Czech Republic,330.48
+47,Finland,301.67
+48,Peru,268.24
+49,Iraq,267.89
+50,Portugal,267.72
+51,New Zealand,251.97
+52,Kazakhstan,245.7
+53,Greece,239.3
+54,Qatar,219.57
+55,Algeria,206.01
+56,Hungary,188.5
+57,Kuwait,164.71
+58,Ethiopia,156.08
+59,Ukraine,148.71
+60,Morocco,138.78
+61,Slovakia,127.53
+62,Ecuador,121.29
+63,Dominican Republic,121.29
+64,Puerto Rico,120.84
+65,Kenya,118.13
+66,Angola,117.88
+67,Cuba,
+68,Oman,104.9
+69,Guatemala,102.31
+70,Bulgaria,100.64
+71,Venezuela,96.63
+72,Uzbekistan,92.33
+73,Luxembourg,86.97
+74,Tanzania,85.42
+75,Turkmenistan,82.65
+76,Croatia,78.88
+77,Lithuania,78.35
+78,Costa Rica,77.78
+79,Uruguay,77.31
+80,Panama,77.26
+81,Ivory Coast,77.05
+82,Sri Lanka,
+83,Serbia,73.96
+84,Belarus,73.54
+85,Azerbaijan,70.03
+86,DR Congo,69.47
+87,Slovenia,68.11
+88,Ghana,66.62
+89,Myanmar,63.99
+90,Jordan,52.06
+91,Tunisia,49.82
+92,Uganda,49.79
+93,Cameroon,48.62
+94,Latvia,47.4
+95,Sudan,46.7
+96,Libya,46.3
+97,Bolivia,46.1
+98,Bahrain,44.87
+99,Paraguay,42.82
+100,Nepal,42.1
+101,Estonia,41.55
+102,Macau,35.84
+103,El Salvador,33.75
+104,Honduras,32.86
+105,Papua New Guinea,31.36
+106,Senegal,31.22
+107,Cyprus,30.86
+108,Cambodia,30.63
+109,Zimbabwe,29.93
+110,Zambia,29.27
+111,Iceland,28.62
+112,Bosnia and Herzegovina,28.49
+113,Trinidad and Tobago,28.22
+114,Georgia,27.95
+115,Haiti,26.58
+116,Lebanon,
+117,Armenia,23.72
+118,Guinea,23.33
+119,Burkina Faso,21.08
+120,Mali,20.78
+121,Gabon,20.33
+122,Albania,20.18
+123,Afghanistan,
+124,Mozambique,19.91
+125,Palestine,19.21
+126,Botswana,19.57
+127,Yemen,19.53
+128,Malta,19.4
+129,Benin,19.24
+130,Nicaragua,17.29
+131,Jamaica,17.25
+132,Mongolia,16.91
+133,Niger,16.62
+134,Guyana,16.31
+135,Brunei,15.99
+136,Madagascar,15.97
+137,North Korea,
+138,Moldova,15.83
+139,Syria,
+140,North Macedonia,15.28
+141,Equatorial Guinea,15.1
+142,Mauritius,14.57
+143,Bahamas,14.11
+144,Laos,14.09
+145,Namibia,13.49
+146,Rwanda,13.15
+147,Congo,13.03
+148,Tajikistan,12.8
+149,Kyrgyzstan,12.31
+150,Chad,11.96
+151,Malawi,11.28
+152,Mauritania,10.97
+153,New Caledonia,
+154,Kosovo,9.99
+155,Togo,9.0
+156,Somalia,8.74
+157,Monaco,
+158,Bermuda,
+159,Montenegro,7.03
+160,South Sudan,7.01
+161,Maldives,7.0
+162,Liechtenstein,
+163,Barbados,6.12
+164,French Polynesia,
+165,Cayman Islands,
+166,Fiji,5.38
+167,Eswatini,4.82
+168,Liberia,4.38
+169,Djibouti,3.92
+170,Andorra,3.67
+171,Aruba,3.63
+172,Sierra Leone,3.52
+173,Suriname,3.47
+174,Burundi,3.23
+175,Belize,3.16
+176,Greenland,
+177,Central African Republic,2.74
+178,Curaçao,
+179,Bhutan,2.68
+180,Eritrea,2.67
+181,Lesotho,2.58
+182,Cape Verde,2.47
+183,Gambia,2.28
+184,Saint Lucia,2.26
+185,East Timor,1.99
+186,Seychelles,1.95
+187,Guinea-Bissau,1.89
+188,Antigua and Barbuda,1.86
+189,San Marino,1.81
+190,Zanzibar,
+191,Solomon Islands,1.7
+192,British Virgin Islands,
+193,Comoros,1.35
+194,Grenada,1.27
+195,Vanuatu,1.06
+196,Saint Kitts and Nevis,1.05
+197,Saint Vincent and the Grenadines,1.04
+198,Turks and Caicos Islands,
+199,Samoa,0.9
+200,Sint Maarten,
+201,Dominica,0.68
+202,São Tomé and Príncipe,0.62
+203,Tonga,0.54
+204,Micronesia,0.46
+205,Marshall Islands,0.29
+206,Cook Islands,
+207,Palau,0.26
+208,Anguilla,
+209,Kiribati,0.25
+210,Nauru,0.15
+211,Montserrat,
+212,Tuvalu,0.06

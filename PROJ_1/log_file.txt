@@ -1,0 +1,7 @@
+2023-Dec-29-23:49:14,Extraction started
+2023-Dec-29-23:49:16,Extraction: data loaded by BeautifulSoup
+2023-Dec-29-23:49:16,Extraction: dataframe returned
+2023-Dec-29-23:49:16,Transformation started.
+2023-Dec-29-23:49:16,Transformation: returned dataframe
+2023-Dec-29-23:49:16,Load phase: db created
+2023-Dec-29-23:49:16,SQL query executed.
