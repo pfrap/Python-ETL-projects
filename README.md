@@ -17,7 +17,7 @@
 _** Librerie utilizzate in entrambi i progetti._
 
 ## Funzioni ETL
-[Python file]("./ETL/etl_1.py")
+[Python file](./ETL/etl_1.py)
 
 |LIBRERIE|UTILIZZO|
 |:-:|:-|
