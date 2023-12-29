@@ -1,9 +1,9 @@
 # Prgetti di ingegneria dei dati
 
-## Progetto ingegneria dei dati _2
+## Progetto_2
 [Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)
 
-## Progetto ingegneria dei dati _1
+## Progetto_1
 [Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)
 
 |LIBRERIE|UTILIZZO|
