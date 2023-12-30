@@ -1,10 +1,14 @@
-# Prgetti di ingegneria dei dati
+# Progetti di ingegneria dei dati
 
-## Progetto_2
-[Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)
+## Progetti (1 e 2)
+Implementazione funzione di _webscraping_ con estrazione di dati strutturati da sito web, elaborazione dati, caricamento su file csv e database Sqlite3 (scrittura query di esempio tramite Sqlite3).  
+Scrittura file log txt con le fasi della procedura. 
+ 
+|PROGETTO|LINK JUPYTER NOTEBOOK|
+|:-:|:-|
+|Progetto 1|[Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)|
+|Progetto 2|[Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)|
 
-## Progetto_1
-[Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)
 
 |LIBRERIE|UTILIZZO|
 |:-:|:-|
@@ -16,7 +20,9 @@
 
 _** Librerie utilizzate in entrambi i progetti._
 
-## Funzioni ETL
+## Funzione ETL
+File Python con procedura ETL che cicla su file csv, json e XML in una cartella predefinita dall'utente, estrae e trasforma informazioni specifiche, le unifica in file csv e scrive file log.  
+
 [Python file](./ETL/etl_1.py)
 
 |LIBRERIE|UTILIZZO|
@@ -26,20 +32,9 @@ _** Librerie utilizzate in entrambi i progetti._
 |ElementTree|Gestione file XML|
 |Datetime|Scrittura log file con data e ora|
 
-## Interrogazione database tramite pacchetto SQLite3.
-[Jupyter Notebook](./SQLITE_DB/sqlite_db.ipynb)
+## Esercizi
 
-|LIBRERIE|UTILIZZO|
+|PROGETTO|LINK JUPYTER NOTEBOOK|
 |:-:|:-|
-|Pandas|Manipolazione dei dati|
-|SQLite3|Lettura database|
-
-## Webscraping con BeautifulSoup.
-[Jupyter Notebook](./WEB_SCRAPING/web_scraping.ipynb)
-
-|LIBRERIE|UTILIZZO|
-|:-:|:-|
-|Requests|Download dati da web|
-|BeautifulSoup|Interpretazione html|
-|Pandas|Manipolazione dei dati|
-|SQLite3|Lettura database|
+|SQLite3|[Jupyter Notebook](./SQLITE_DB/sqlite_db.ipynb)|
+|BeautifulSoup|[Jupyter Notebook](./WEB_SCRAPING/web_scraping.ipynb)|
