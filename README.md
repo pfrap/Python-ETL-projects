@@ -6,8 +6,8 @@ Scrittura file log txt con le fasi della procedura.
  
 |PROGETTO|LINK JUPYTER NOTEBOOK|
 |:-:|:-|
-|Progetto 1|[Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)|
-|Progetto 2|[Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)|
+|Progetto 2 (final)|[Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)|
+|Progetto 1 (test)|[Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)|
 
 ### Elenco librerie utilizzate
 |LIBRERIA|UTILIZZO|
