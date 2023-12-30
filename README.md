@@ -1,6 +1,9 @@
 # Prgetti di ingegneria dei dati
 
 ## Progetto ingegneria dei dati _2
+Implementazione funzione di _webscraping_ con estrazione di dati strutturati da sito web, elaborazione dati, caricamento su file csv e database Sqlite3 (scrittura query di esempio tramite Sqlite3).  
+Scrittura file log txt con le fasi della procedura.  
+
 [Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)
 
 ## Progetto ingegneria dei dati _1
