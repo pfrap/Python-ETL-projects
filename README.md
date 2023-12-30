@@ -1,12 +1,9 @@
 # Prgetti di ingegneria dei dati
 
-## Progetto ingegneria dei dati _2
-Implementazione funzione di _webscraping_ con estrazione di dati strutturati da sito web, elaborazione dati, caricamento su file csv e database Sqlite3 (scrittura query di esempio tramite Sqlite3).  
-Scrittura file log txt con le fasi della procedura.  
-
+## Progetto_2
 [Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)
 
-## Progetto ingegneria dei dati _1
+## Progetto_1
 [Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)
 
 |LIBRERIE|UTILIZZO|
@@ -20,7 +17,7 @@ Scrittura file log txt con le fasi della procedura.
 _** Librerie utilizzate in entrambi i progetti._
 
 ## Funzioni ETL
-[Python file]("./ETL/etl_1.py")
+[Python file](./ETL/etl_1.py)
 
 |LIBRERIE|UTILIZZO|
 |:-:|:-|
