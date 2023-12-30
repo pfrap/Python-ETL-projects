@@ -9,8 +9,8 @@ Scrittura file log txt con le fasi della procedura.
 |Progetto 1|[Jupyter Notebook](./PROJ_1/etl_project_1.ipynb)|
 |Progetto 2|[Jupyter Notebook](./PROJ_2/etl_project_2.ipynb)|
 
-
-|LIBRERIE|UTILIZZO|
+### Elenco librerie utilizzate
+|LIBRERIA|UTILIZZO|
 |:-:|:-|
 |Requests|Download dati da web|
 |BeautifulSoup|Interpretazione html|
