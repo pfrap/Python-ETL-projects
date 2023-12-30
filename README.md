@@ -1,4 +1,4 @@
-# Progetti di ingegneria dei dati
+# Python ETL projects
 
 ## Progetti (1 e 2)
 Implementazione funzione di _webscraping_ con estrazione di dati strutturati da sito web, elaborazione dati, caricamento su file csv e database Sqlite3 (scrittura query di esempio tramite Sqlite3).  
