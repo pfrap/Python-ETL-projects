@@ -38,3 +38,5 @@ File Python con procedura ETL che cicla su file csv, json e XML in una cartella 
 |:-:|:-|
 |SQLite3|[Jupyter Notebook](./SQLITE_DB/sqlite_db.ipynb)|
 |BeautifulSoup|[Jupyter Notebook](./WEB_SCRAPING/web_scraping.ipynb)|
+|Packaging|[Folder](./PACKAGING/)|
+|Pylint e Unit testing|[Folder](./CODING_PRACTICES/)|
